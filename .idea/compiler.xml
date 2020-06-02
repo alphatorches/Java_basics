@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="alphatorches" />
         <module name="Java_基础" />
+        <module name="Java_basics" />
+        <module name="alphatorches" />
       </profile>
     </annotationProcessing>
   </component>
